@@ -9,6 +9,10 @@ function App() {
         <p>
           Edit <code>main에서 바꾼것</code> and save to reload.
         </p>
+        <p>
+          dev 브랜치에서 수정한것!!!!!!
+          pull request해보려고하는것
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"

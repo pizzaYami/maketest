@@ -1,6 +1,7 @@
 # My Todo App
 
-Todo 관리를 위한 웹 애플리케이션입니다.
+todo와 뽀모도로를 합친 웹 케이플리케이션입니다.
+
 
 ## Features
 
